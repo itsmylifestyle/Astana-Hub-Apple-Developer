@@ -40,4 +40,4 @@ Usage: Input a number, and the program will determine if it's a perfect number o
 Description: Identifies the season based on the provided month and day.<br>
 Usage: Input a month and day in "MM.dd" format, and the program will identify the corresponding season.
 
-Each code snippet is designed to be executed independently. Instructions are provided within each snippet for user input and execution. Explore each task to understand its functionality and utilize it as needed.
+** Each code snippet is designed to be executed independently. Instructions are provided within each snippet for user input and execution. Explore each task to understand its functionality and utilize it as needed. **
