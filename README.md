@@ -1,12 +1,11 @@
-<p align="center">
-# Astana Hub - Apple Authorized Training Centre for Education
-</p>
-
+#Astana Hub - Apple Authorized Training Centre for Education
 
 ## Welcome to the Swift code snippets repository! This collection of code snippets covers various tasks and computations written in Swift programming language. Each task serves a specific purpose and can be utilized independently. Below is an overview of each task along with its functionality:
 
-> [!IMPORTANT]
-> How to find my codes?.
+> [!CAUTION]
+> How to find my codes?
+
+> [!TIP]
 > Go to the "moduleTwoMidLevel" -> "main.swift"
 
 ### 1. Odd and Even
