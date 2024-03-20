@@ -2,7 +2,7 @@
 
 ## Welcome to the Swift code snippets repository! This collection of code snippets covers various tasks and computations written in Swift programming language. Each task serves a specific purpose and can be utilized independently. Below is an overview of each task along with its functionality:
 
-> > [!IMPORTANT]
+> [!IMPORTANT]
 > How to find my codes?.
 > Go to the "moduleTwoMidLevel" -> "main.swift"
 
