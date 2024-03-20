@@ -2,6 +2,10 @@
 
 ## Welcome to the Swift code snippets repository! This collection of code snippets covers various tasks and computations written in Swift programming language. Each task serves a specific purpose and can be utilized independently. Below is an overview of each task along with its functionality:
 
+How to find my codes?
+Go to the "moduleTwoMidLevel" -> "main.swift"
+
+
 1. Odd and Even
 Description: Determines whether a given number is odd or even.
 Usage: Enter a number, and the program will output whether it's odd or even.
